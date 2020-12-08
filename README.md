@@ -10,4 +10,4 @@
 * this is a quiz program for Indonesian vocabularies
 * the quiz gives 20 questions randomly
 * consists of 201 questions
-* all answers are based on [KBBI](https://kbbi.kemdikbud.go.id) (Great Dictionary of the Indonesian Language of the Language Center)
+* all answers are based on [KBBI](https://kbbi.kemdikbud.go.id) (Great Dictionary of the Indonesian Language)
