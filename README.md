@@ -1,4 +1,4 @@
-# Program Kuis Kata Baku
+# Program C++ Kuis Kata Baku
 Programed by Muflih
 ## Bahasa Indonesia
 * ini adalah program kuis untuk kata baku
