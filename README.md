@@ -1,6 +1,6 @@
 # Program Kuis Kata Baku
 
-##Bahasa Indonesia:
+## Bahasa Indonesia:
 * ini adalah program kuis untuk kata baku
 * kuis memberikan 20 soal secara acak
 * terdiri atas 201 soal
