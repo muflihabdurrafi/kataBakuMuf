@@ -1,11 +1,3 @@
-/*
-Aplikasi Kuis Kata Baku dengan Persentase Benar dan Salahnya.
-Nama: Muhammad Muflih Abdurrafi
-NIM: H1D020033
-Algoritma dan Pemrograman
-*/
-
-
 #include <iostream>
 #include <conio.h> //untuk getch()
 #include <time.h> //untuk srand(time(null))
