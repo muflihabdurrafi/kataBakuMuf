@@ -145,8 +145,8 @@ void katabaku (int &betul, int &salah){
             tidakBaku = "nomer";
             break;
         case 15:
-            katabaku = "sangsi";
-            tidakBaku = "sanksi";
+            katabaku = "hadis";
+            tidakBaku = "hadist";
             break;
         case 16:
             katabaku = "seriawan";
@@ -889,6 +889,10 @@ void katabaku (int &betul, int &salah){
         case 200:
             katabaku = "akta";
             tidakBaku = "akte";
+            break;
+        case 201:
+            katabaku = "terima kasih";
+            tidakBaku = "terima kasih";
             break;
         default:
             katabaku = "lembap";
