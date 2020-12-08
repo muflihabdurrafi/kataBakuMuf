@@ -1,5 +1,5 @@
 # Program Kuis Kata Baku
-    Programed by Muflih
+Programed by Muflih
 ## Bahasa Indonesia
 * ini adalah program kuis untuk kata baku
 * kuis memberikan 20 soal secara acak
